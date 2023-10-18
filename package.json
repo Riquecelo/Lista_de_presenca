@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://Riquecelo.github.io/Lista_de_presenca",
   "type": "module",
   "scripts": {
