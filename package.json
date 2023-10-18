@@ -2,7 +2,7 @@
   "name": "reactapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://riquecelo.github.io/Lista_de_presenca",
+  "homepage": "https://Riquecelo.github.io/Lista_de_presenca",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
